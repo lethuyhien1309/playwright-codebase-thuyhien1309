@@ -9,3 +9,6 @@
 # Môi trường & thông tin nhạy cảm (không push lên repo)
 .env
 .auth/
+
+# Playwright
+node_modules/
